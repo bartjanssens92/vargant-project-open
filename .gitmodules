@@ -1,0 +1,15 @@
+[submodule "modules/projectopen"]
+	path = modules/projectopen
+	url = https://github.com/bartjanssens92/puppet-demo-project-open.git
+[submodule "modules/archive"]
+	path = modules/archive
+	url = https://github.com/camptocamp/puppet-archive.git
+[submodule "modules/concat"]
+	path = modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "modules/postgresql"]
+	path = modules/postgresql
+	url = https://github.com/puppetlabs/puppetlabs-postgresql.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
